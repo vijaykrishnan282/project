@@ -1,0 +1,19 @@
+.bg-head{
+    background-image: url('https://ik.imagekit.io/isqo0eqj9/revemp%20%20training%20/home%20page%20banner%20(1).jpg?updatedAt=1743865483612');
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+
+  
+  .rotating-image {
+    transition: transform 0.1s ease-in-out; /* Optional: For a smoother transition */
+  }
+  
+  .rotating-image:hover {
+    transform: rotate(-90deg); /* Rotate 360 degrees on hover */
+  }
+  
+  
